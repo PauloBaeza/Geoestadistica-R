@@ -3,10 +3,10 @@
 Este proyecto aborda un caso práctico de geoestadística utilizando la librería `geoR` en R. El objetivo es analizar y modelar el número de suicidios en 32 municipios de
 Londres (excluyendo City London) en el periodo de 1989-1993 para hombres y mujeres combinados. Las
 variables que se registran son:
-• Número de suicidios observados en el periodo estudiado (y),
-• Número de casos de suicidio esperados (E),
-• Indice de privación social (x1),
-• Indice de fragmentación social (x2), que refleja la falta de conexiones sociales y de sentido de
+- Número de suicidios observados en el periodo estudiado (y),
+- Número de casos de suicidio esperados (E),
+- Indice de privación social (x1),
+- Indice de fragmentación social (x2), que refleja la falta de conexiones sociales y de sentido de
 comunidad.
 
 Además, de las variables del sector geográfico, con el objetivo de explicar "y"", a través del SMR = y/E.
